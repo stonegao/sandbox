@@ -1,0 +1,11 @@
+Some nice aliases:
+
+gb = git branch
+gba = git branch -a
+gc = git commit -v
+gd = git diff | mate
+gl = git pull
+gp = git push
+gst = git status
+
+
